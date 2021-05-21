@@ -1,5 +1,6 @@
 # SampleStartup
-https://rewpt.github.io/Startup-Sample/
+https://rewpt.github.io/Startup-Sample 
+
 An example of a simple start up landing page.
 Features include:
 - Full page background
